@@ -11,4 +11,6 @@ In order to appoint new Employee follow the steps:
 - Add the Employee to the Staff list of the department.
  
 Follow the given UML diagram:
+
+
 ![sdfghjk](https://user-images.githubusercontent.com/63779277/111616194-497da480-87ea-11eb-9e3e-9a636587017b.jpg)
